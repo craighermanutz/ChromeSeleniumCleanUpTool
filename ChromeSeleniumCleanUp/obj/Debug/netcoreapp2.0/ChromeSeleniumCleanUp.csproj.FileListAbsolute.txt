@@ -1,0 +1,4 @@
+C:\WIP\ChromeSeleniumCleanUp\ChromeSeleniumCleanUp\ChromeSeleniumCleanUp\obj\Debug\netcoreapp2.0\ChromeSeleniumCleanUp.csprojAssemblyReference.cache
+C:\WIP\ChromeSeleniumCleanUp\ChromeSeleniumCleanUp\ChromeSeleniumCleanUp\obj\Debug\netcoreapp2.0\ChromeSeleniumCleanUp.csproj.CoreCompileInputs.cache
+C:\WIP\ChromeSeleniumCleanUp\ChromeSeleniumCleanUp\ChromeSeleniumCleanUp\obj\Debug\netcoreapp2.0\ChromeSeleniumCleanUp.AssemblyInfoInputs.cache
+C:\WIP\ChromeSeleniumCleanUp\ChromeSeleniumCleanUp\ChromeSeleniumCleanUp\obj\Debug\netcoreapp2.0\ChromeSeleniumCleanUp.AssemblyInfo.cs
