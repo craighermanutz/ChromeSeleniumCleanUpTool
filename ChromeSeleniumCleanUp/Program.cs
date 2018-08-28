@@ -19,4 +19,6 @@ namespace ChromeSeleniumCleanUp
                 process.Kill();
             }
         }
+        
+    }
 }
